@@ -5,6 +5,7 @@ import ContactUs from './Components/Pages/ContactUs/ContactUs';
 import Header from './Components/Pages/Header/Header';
 import Home from './Components/Pages/Home/Home';
 import Login from './Components/Pages/Login/Login/Login';
+import Register from './Components/Pages/Login/Register/Register';
 
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
         <Route path='/about_us' element={<AboutUs/>}/>
         <Route path='/contact' element={<ContactUs/>}/>
         <Route path='/login' element={<Login/>}/>
+        <Route path='/register' element={<Register/>}/>
       </Routes>
     </div>
   );
