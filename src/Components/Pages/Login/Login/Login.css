@@ -2,9 +2,9 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
     flex-direction: column;
     background-color: rgb(255, 255, 255);
+    margin: 30px;
     
 }
 .input_wrap{
@@ -27,7 +27,7 @@
     border: 2px solid;
     border-color: #c3037d;
     width: 45px;
-    top: 13%;
+    top: 14%;
     left: 49%;
 }
 

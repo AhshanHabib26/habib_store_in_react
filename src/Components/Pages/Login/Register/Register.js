@@ -1,13 +1,13 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import './Register.module.css'
+import './Register.css'
 
 const Register = () => {
   return (
     <div className="container">
       <div className="myContainer">
         <div className="input_wrap">
-          <h1>Sign Up</h1>
+          <h1>Register</h1>
           <form action="">
             <div className="input_items">
               <label>
