@@ -1,0 +1,123 @@
+[
+    {
+        "id" : 1,
+        "Name": "Microsoft Surface Laptop 3-15” Touch-Screen",
+        "Image": "https://i.ibb.co/2kpk1QV/img-1.jpg",
+        "Price": "$950.00"
+    },
+    {
+        "id" : 2,
+        "Name": "Outdoor Security Camera Wireless, 1080p Full HD",
+        "Image": "https://i.ibb.co/Y0X2bhx/img-2.jpg",
+        "Price": "$250"
+    },
+    {
+        "id" : 3,
+        "Name": "SAMSUNG 27-inch M5 Smart Monitor",
+        "Image": "https://i.ibb.co/KXQy8mL/img-3.jpg",
+        "Price": "$150"
+    },
+    {
+        "id" : 4,
+        "Name": "Sony DSCHX8 High Zoom Point & Shoot Camera",
+        "Image": "https://i.ibb.co/PxjQhMw/img-4.jpg",
+        "Price": "$350"
+    },
+    {
+        "id" : 5,
+        "Name": "PlayStation 4 Console – 1TB Slim Edition",
+        "Image": "https://i.ibb.co/rQmTPyS/img-5.jpg",
+        "Price": "$390"
+    },
+    {
+        "id" : 6,
+        "Name": "Apple iMac with Retina 5K, 27-inch Display",
+        "Image": "https://i.ibb.co/1MRsV7B/img-6.jpg",
+        "Price": "$490 - $699"
+    },
+    {
+        "id" : 7,
+        "Name": "Canon Digital Camera w/ 42x Optical Zoom",
+        "Image": "https://i.ibb.co/rsZcNN6/img-7.jpg",
+        "Price": "$499"
+    },
+    {
+        "id" : 8,
+        "Name": "BLU G90 Pro – 6.5” HD+ Gaming Smartphone",
+        "Image": "https://i.ibb.co/9rxScpt/img-8.jpg",
+        "Price": "$899"
+    },
+    {
+        "id" : 9,
+        "Name": "Samsung Electronics Samsung Galaxy S21 5G",
+        "Image": "https://i.ibb.co/hKd78yk/img-9.jpg",
+        "Price": "$799"
+    },
+    {
+        "id" : 10,
+        "Name": "8″ HD Processor 16GB Storage Smartphone",
+        "Image": "https://i.ibb.co/Y2X2CDX/img-10.jpg",
+        "Price": "$599"
+    },
+    {
+        "id" : 11,
+        "Name": "Note 9 128GB Factory Unlocked Tablet",
+        "Image": "https://i.ibb.co/VVfnkb4/img-11.jpg",
+        "Price": "$599 - $899"
+    },
+    {
+        "id" : 12,
+        "Name": "Canon EF 85mm f/1.8 USM Medium Telephoto Lens",
+        "Image": "https://i.ibb.co/ScfCyfz/img-12.jpg",
+        "Price": "$99"
+    },
+    {
+        "id" : 13,
+        "Name": "Desktop Webcam, HD 720p Widescreen",
+        "Image": "https://i.ibb.co/yVdb9S8/img-13.jpg",
+        "Price": "$199"
+    },
+    {
+        "id" : 14,
+        "Name": "Wired Over-Ear Gaming Headphones with USB",
+        "Image": "https://i.ibb.co/bQwQHGk/img-14.jpg",
+        "Price": "$149"
+    },
+    {
+        "id" : 15,
+        "Name": "Acer Aspire C24-963-UA91 AIO Desktop",
+        "Image": "https://i.ibb.co/BGsqRYs/img-15.jpg",
+        "Price": "$89"
+    },
+    {
+        "id" : 16,
+        "Name": "HP Pavilion27-Inch Full HD IPS LED Monitor",
+        "Image": "https://i.ibb.co/7pG4KW5/img-16.jpg",
+        "Price": "$119"
+    },
+
+    {
+        "id" : 17,
+        "Name": "Sony VAIO E Series 14-Inch Laptop",
+        "Image": "https://i.ibb.co/RybScFN/img-17.jpg",
+        "Price": "$899"
+    },
+    {
+        "id" : 18,
+        "Name": "Dell IdeaPad 3 Laptop 10th Gen i5",
+        "Image": "https://i.ibb.co/bPhnG4M/img-18.jpg",
+        "Price": "$699"
+    },
+    {
+        "id" : 19,
+        "Name": "ASUS VivoBook 17.3″ Backlight Premium Laptop",
+        "Image": "https://i.ibb.co/tKW95Bp/img-19.jpg",
+        "Price": "$699 - $999"
+    },
+    {
+        "id" : 20,
+        "Name": "Honor (32GB) 6.09″ HD+ Display, Dual SIM 4G",
+        "Image": "https://i.ibb.co/jWkCR7h/img-20.jpg",
+        "Price": "$399 - $599"
+    }
+]
