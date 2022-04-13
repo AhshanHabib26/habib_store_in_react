@@ -1,17 +1,17 @@
 import { initializeApp } from "firebase/app";
-import {getAuth} from 'firebase/auth'
+import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey:process.env.REACT_APP_apiKey, 
-  authDomain:process.env.REACT_APP_authDomain, 
-  projectId:process.env.REACT_APP_projectId, 
-  storageBucket:process.env.REACT_APP_storageBucket, 
-  messagingSenderId:process.env.REACT_APP_messagingSenderId, 
-  appId:process.env.REACT_APP_appId, 
+  apiKey: "AIzaSyBVKdDYQ44s_bPzNrY8eSA59fszkCpoTq4",
+  authDomain: "habib-store-f7d43.firebaseapp.com",
+  projectId: "habib-store-f7d43",
+  storageBucket: "habib-store-f7d43.appspot.com",
+  messagingSenderId: "135925739371",
+  appId: "1:135925739371:web:5e9a7749612a581045262e"
 };
 
+
 const app = initializeApp(firebaseConfig);
+const auth = getAuth(app);
 
-const auth = getAuth(app)
-
-export default auth
+export default auth;
